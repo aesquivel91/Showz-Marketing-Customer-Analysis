@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="showz.png" alt="Showz Analysis Banner" width="800">
+</p>
+
 # 🎟️ Showz Marketing & Customer Analysis
 
 ## 📋 Descripción del Proyecto
